@@ -81,13 +81,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0"
-  masked_text_field:
+  mask_text_input_formatter:
     dependency: "direct main"
     description:
-      name: masked_text_field
+      name: mask_text_input_formatter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.0"
+    version: "2.4.0"
   matcher:
     dependency: transitive
     description:
@@ -172,4 +172,3 @@ packages:
     version: "2.1.2"
 sdks:
   dart: ">=2.17.3 <3.0.0"
-  flutter: ">=1.17.0"
